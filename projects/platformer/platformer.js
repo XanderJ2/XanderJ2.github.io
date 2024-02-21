@@ -59,7 +59,7 @@ $(function () {
     // example usage: createCollectable(type, x, y, gravity, bounce)
     createCollectable("steve", 275, 280, 0, 1);
     createCollectable("grace", 540, 280, 0, 1);
-    createCollactable("kennedi", 1200, 310, 0, 1);
+    createCollectable("kennedi", 1200, 310, 0, 1);
 
     // TODO 3
     // Create cannons
@@ -69,7 +69,7 @@ $(function () {
     createCannon("right", 420, 1500);
     createCannon("top", 400, 1200);
     createCannon("top", 200, 1200);
-    
+
     /////////////////////////////////////////////////
     //////////ONLY CHANGE ABOVE THIS POINT///////////
     /////////////////////////////////////////////////
